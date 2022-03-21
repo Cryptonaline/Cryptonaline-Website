@@ -1,3 +1,8 @@
+<h1>Cryptonaline Website</h1>
+
+- Design Reference:
+- [Mobile App Wesite](https://dribbble.com/shots/16465396-mobile-app-landing-page) 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
